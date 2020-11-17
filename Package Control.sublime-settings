@@ -2,6 +2,10 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Gherkin Auto-Complete Plus",
+		"SCSS"
 	],
 	"installed_packages":
 	[
